@@ -23,7 +23,7 @@ requirements:
     - python >=3.6
   run:
     - attrs
-    - nbclient >=0.2,<0.5
+    - nbclient >=0.2,<0.6
     - nbdime
     - nbformat
     - python >=3.6
