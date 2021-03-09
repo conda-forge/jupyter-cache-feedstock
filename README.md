@@ -5,11 +5,9 @@ Home: https://github.com/ExecutableBookProject/jupyter-cache
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyter-cache-feedstock/blob/master/LICENSE.txt)
 
 Summary: A defined interface for working with a cache of jupyter notebooks.
-
-
 
 Current build status
 ====================
@@ -117,4 +115,5 @@ Feedstock Maintainers
 =====================
 
 * [@anirrudh](https://github.com/anirrudh/)
+* [@chrisjsewell](https://github.com/chrisjsewell/)
 
