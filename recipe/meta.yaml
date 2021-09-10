@@ -50,5 +50,4 @@ about:
 extra:
   recipe-maintainers:
     - anirrudh
-    - chrisjsewell
     - conda-forge/jupyter-book
