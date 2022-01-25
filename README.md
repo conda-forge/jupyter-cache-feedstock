@@ -9,6 +9,8 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyter-cache-f
 
 Summary: A defined interface for working with a cache of jupyter notebooks.
 
+Documentation: https://jupyter-cache.readthedocs.io
+
 Current build status
 ====================
 
