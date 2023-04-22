@@ -1,4 +1,4 @@
-{% set version = "0.6.0" %}
+{% set version = "0.6.1" %}
 
 package:
   name: jupyter-cache
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/j/jupyter-cache/jupyter-cache-{{ version }}.tar.gz
-  sha256: 4f6ef31f992cfee6f0efc7ce070267f5ab57fe3ad7e39566d4f1a9719b005e35
+  sha256: 26f83901143edf4af2f3ff5a91e2d2ad298e46e2cee03c8071d37a23a63ccbfc
 
 build:
   number: 0
