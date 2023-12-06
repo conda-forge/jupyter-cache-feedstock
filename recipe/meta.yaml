@@ -39,8 +39,10 @@ test:
     - pip check
     - jcache --version
     - jcache --help
+    - jcache --version | grep -iE "{{ version.replace('.', '\.') }}$"
   requires:
     - pip
+    - m2-grep  # [win]
 
 about:
   home: https://github.com/executablebooks/jupyter-cache
